@@ -1,3 +1,3 @@
-Learing Rails
+Learning Rails
 ==
 
